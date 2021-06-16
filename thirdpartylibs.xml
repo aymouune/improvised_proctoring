@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<libraries>
+    <library>
+        <location>amd/src/lightbox2.js</location>
+        <name>Lightbox2</name>
+        <version>2.11.3</version>
+        <license>MIT</license>
+    </library>
+    <library>
+        <location>amd/src/face-api.js</location>
+        <name>faceapi</name>
+    </library>
+</libraries>
+<html>
+<head>
+  <script defer src="./amd/src/face-api.js"></script>
+</head>
+</html>
